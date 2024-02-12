@@ -1,0 +1,9 @@
+In this project i am using ESP32 as source board and 4 DC motor connected with L298N motor driver and for power supply 12v of external battery is used.
+Pin Connection are 
+motor driver                     ESP32
+Enable/speed motors Right        GPIO14(D5)
+Enable/speed motors Left         GPIO12(D6)
+L298N in1 motors Rightx          GPIO15(D8)
+L298N in2 motors Right           GPIO13(D7)
+L298N in3 motors Left            GPIO2(D4)
+L298N in4 motors Left            GPIO0(D3)
