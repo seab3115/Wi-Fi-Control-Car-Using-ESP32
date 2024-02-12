@@ -13,8 +13,8 @@ String command;             //String to store app command state.
 int speedCar = 800;         // 400 - 1023.
 int speed_Coeff = 3;
 
-const char* ssid = "Redmi 9 Prime";
-const char* password = "8879945692";
+const char* ssid = "YOUR_SSID";
+const char* password = "YOUR_PASSWORD";
 WebServer server(80);       // Change the server type for ESP32
 
 void setup() {
