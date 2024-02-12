@@ -1,4 +1,5 @@
 In this project i am using ESP32 as source board and 4 DC motor connected with L298N motor driver and for power supply 12v of external battery is used.
+We are using an application to control car and the apk file is being added you just have to upload the ip address that have been generated after uploading the code in ESP32.
 Pin Connection are 
 motor driver                     ESP32
 Enable/speed motors Right        GPIO14(D5)
